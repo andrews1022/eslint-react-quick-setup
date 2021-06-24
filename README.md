@@ -28,4 +28,8 @@ It may also be suggested to you to run `npm audit fix` to fix any package vulner
 
 ## Usage
 
-To save yourself sometime, I've included 2 starter ESLint config files you can use or reference. If your project includes tests using React Testing Library, check out the config file in the `tests` folder. If your project does not include tests, check out the config file in the `base` directory. Of course, feel free to modify the rules to your liking.
+To save yourself sometime, I've included 2 starter ESLint config files you can use or reference.
+
+If your project includes tests using React Testing Library, check out the config file in the `tests` folder.
+
+If your project does not include tests, check out the config file in the `base` directory. Of course, feel free to modify the rules to your liking.
