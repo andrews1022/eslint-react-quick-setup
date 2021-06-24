@@ -32,4 +32,6 @@ To save yourself sometime, I've included 2 starter ESLint config files you can u
 
 If your project includes tests using React Testing Library, check out the config file in the `tests` folder.
 
-If your project does not include tests, check out the config file in the `base` directory. Of course, feel free to modify the rules to your liking.
+If your project does not include tests, check out the config file in the `base` directory.
+
+Of course, feel free to modify the rules to your liking!
