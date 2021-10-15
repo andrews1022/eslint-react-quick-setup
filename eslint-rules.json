@@ -15,6 +15,7 @@
 		"import/prefer-default-export": "warn",
 		"indent": "off",
 		"jsx-a11y/heading-has-content": "warn",
+		"jsx-quotes": ["warn", "prefer-single"],
 		"keyword-spacing": "warn",
 		"linebreak-style": "off",
 		"max-len": "warn",
