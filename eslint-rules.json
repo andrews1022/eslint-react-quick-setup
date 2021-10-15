@@ -1,22 +1,8 @@
 {
-	"env": {
-		"browser": true,
-		"node": true,
-		"es6": true,
-		"jest": true
-	},
-	"extends": ["airbnb", "react-app", "react-app/jest"],
-	"parserOptions": {
-		"ecmaVersion": 2018,
-		"sourceType": "module",
-		"ecmaFeatures": {
-			"jsx": true
-		}
-	},
-	"plugins": ["react"],
 	"rules": {
 		"arrow-body-style": "warn",
 		"array-callback-return": "warn",
+		"arrow-parens": "warn",
 		"comma-dangle": "off",
 		"comma-spacing": "warn",
 		"eol-last": "warn",
@@ -35,6 +21,7 @@
 		"no-confusing-arrow": "off",
 		"no-multiple-empty-lines": "warn",
 		"no-multi-spaces": "warn",
+		"no-tabs": "off",
 		"no-trailing-spaces": "warn",
 		"no-useless-return": "warn",
 		"no-unused-vars": "warn",
@@ -51,8 +38,8 @@
 		"react/jsx-closing-tag-location": "warn",
 		"react/jsx-curly-newline": "off",
 		"react/jsx-filename-extension": [1, { "extensions": [".jsx", ".tsx"] }],
-		"react/jsx-indent": "warn",
-		"react/jsx-indent-props": "warn",
+		"react/jsx-indent": [2, "tab"],
+		"react/jsx-indent-props": [2, "tab"],
 		"react/jsx-one-expression-per-line": "off",
 		"react/jsx-props-no-multi-spaces": "warn",
 		"react/jsx-tag-spacing": "warn",
