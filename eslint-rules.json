@@ -28,6 +28,7 @@
 		"no-tabs": "off",
 		"no-trailing-spaces": "warn",
 		"no-undef": "warn",
+		"no-underscore-dangle": "warn",
 		"no-unused-vars": "warn",
 		"no-use-before-define": "off",
 		"no-useless-return": "warn",
