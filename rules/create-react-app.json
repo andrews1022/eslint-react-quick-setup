@@ -40,6 +40,7 @@
 		"prefer-const": "warn",
 		"prefer-destructuring": "warn",
 		"quotes": "off",
+		"react/function-component-definition": [2, { "namedComponents": "arrow-function" }],
 		"react/jsx-boolean-value": "warn",
 		"react/jsx-closing-bracket-location": "warn",
 		"react/jsx-closing-tag-location": "warn",
