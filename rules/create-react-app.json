@@ -22,6 +22,7 @@
     "keyword-spacing": "warn",
     "linebreak-style": "off",
     "max-len": "warn",
+    "new-cap": "warn",
     "no-confusing-arrow": "off",
     "no-mixed-spaces-and-tabs": "off",
     "no-multi-spaces": "warn",
@@ -41,6 +42,7 @@
     "prefer-const": "warn",
     "prefer-destructuring": "warn",
     "quotes": "off",
+    "radix": "warn",
     "react/function-component-definition": [2, { "namedComponents": "arrow-function" }],
     "react/jsx-boolean-value": "warn",
     "react/jsx-closing-bracket-location": "warn",
@@ -60,7 +62,8 @@
     "semi": "warn",
     "space-before-blocks": "warn",
     "space-in-parens": "warn",
+    "spaced-comment": "warn",
     "switch-colon-spacing": "warn",
-    "@typescript-eslint/no-use-before-define": ["error"]
+    "@typescript-eslint/no-use-before-define": ["warn"]
   }
 }
