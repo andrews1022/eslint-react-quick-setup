@@ -1,4 +1,5 @@
 {
+  "extends": ["airbnb", "plugin:react/recommended", "plugin:@typescript-eslint/recommended"],
   "rules": {
     "array-callback-return": "warn",
     "arrow-body-style": "warn",
