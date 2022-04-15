@@ -14,9 +14,7 @@ Once that is done, continue with the steps listed below.
 
 ## Setup
 
-The easiest way to get started is by using a React boilerplate, such as [Create React App](https://github.com/facebook/create-react-app), because ESLint is included with Create React App.
-
-Once Create React App is finished downloading, you can easily create an ESLint config by running:
+Create an ESLint config by running:
 
 `npx eslint --init`
 
