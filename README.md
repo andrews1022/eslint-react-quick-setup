@@ -27,3 +27,5 @@ It may also be suggested to you to run `npm audit fix` to fix any package vulner
 ## Usage
 
 To save yourself sometime, I've included some ESLint rules that I like to use. Of course, feel free to modify the rules to your liking!
+
+The rules are assuming you are using TypeScript as well, so rules like `react/prop-types` are turned off. Update to your use case.
