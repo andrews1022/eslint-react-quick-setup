@@ -38,7 +38,7 @@
     "no-trailing-spaces": "warn",
     "no-undef": "warn",
     "no-underscore-dangle": "warn",
-    "no-use-before-define": "warn",
+    "no-use-before-define": "off",
     "no-useless-rename": "warn",
     "no-useless-return": "warn",
     "object-curly-newline": "off",
