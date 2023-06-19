@@ -13,6 +13,7 @@
     "block-spacing": "warn",
     "comma-dangle": "off",
     "comma-spacing": "warn",
+    "default-param-last": ["warn"],
     "dot-location": "warn",
     "eol-last": "warn",
     "func-style": ["warn", "expression"],
