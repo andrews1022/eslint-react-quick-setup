@@ -7,7 +7,7 @@
   ],
   "rules": {
     "array-callback-return": "warn",
-    "arrow-body-style": ["warn", "always"],
+    "arrow-body-style": ["warn", "as-needed"],
     "arrow-parens": "warn",
     "arrow-spacing": "warn",
     "block-spacing": "warn",
